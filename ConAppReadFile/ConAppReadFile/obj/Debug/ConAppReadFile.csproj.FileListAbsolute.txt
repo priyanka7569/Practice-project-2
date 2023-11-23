@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\Practice project2\ConAppReadFile\ConAppReadFile\bin\Debug\ConAppReadFile.exe.config
+C:\Users\kotap\OneDrive\Desktop\Practice project2\ConAppReadFile\ConAppReadFile\bin\Debug\ConAppReadFile.exe
+C:\Users\kotap\OneDrive\Desktop\Practice project2\ConAppReadFile\ConAppReadFile\bin\Debug\ConAppReadFile.pdb
+C:\Users\kotap\OneDrive\Desktop\Practice project2\ConAppReadFile\ConAppReadFile\obj\Debug\ConAppReadFile.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\Practice project2\ConAppReadFile\ConAppReadFile\obj\Debug\ConAppReadFile.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\Practice project2\ConAppReadFile\ConAppReadFile\obj\Debug\ConAppReadFile.exe
+C:\Users\kotap\OneDrive\Desktop\Practice project2\ConAppReadFile\ConAppReadFile\obj\Debug\ConAppReadFile.pdb

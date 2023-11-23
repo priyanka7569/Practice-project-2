@@ -1,0 +1,4 @@
+Rainbow school student data:
+Student1: Name: Kota Priyanka   MarksGained-85%
+Student2: Name: Sowmya          MarksGained-75%
+Student3: Name:Pranay           MarksGained-80%
